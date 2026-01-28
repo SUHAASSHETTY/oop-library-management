@@ -1,0 +1,35 @@
+# ------------------ Python ------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ------------------ Virtual Environment ------------------
+venv/
+env/
+.venv/
+
+# ------------------ IDE / Editor ------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ------------------ OS Files ------------------
+.DS_Store
+Thumbs.db
+
+# ------------------ Logs ------------------
+*.log
+
+# ------------------ Environment Variables ------------------
+.env
+
+# ------------------ Test / Coverage ------------------
+.coverage
+htmlcov/
+
+# ------------------ Build ------------------
+build/
+dist/
+*.egg-info/
